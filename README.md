@@ -5,4 +5,6 @@ Thanos Project for CDSP 1 May
 This project uses Jupyter Notebook and os, random and time modules
 
 ## Author
-This project is done by Omar Hammad
+This project done by Omar Hammad
+
+Copyright Epsilon Center
